@@ -1,0 +1,114 @@
+body {
+    background: #1a1925;
+    margin: 0;
+    padding: 0;
+}
+
+.first .left .one {
+    padding: 5px 11px 10px;
+    font-size: 12px;
+}
+
+.first .right #live-chat {
+    width: 100px;
+    height: 37px;
+}
+
+.first .right #open-acc {
+    width: 165px;
+    height: 38px;
+    background-color: #077ebc;
+}
+
+.first .right #mem-login {
+    width: 160px;
+    height: 38px;
+    background-color: #c52d2f;
+}
+
+.first .left span img {
+    width: 25px;
+}
+
+.second .links{
+    padding-left: 8rem;
+}
+.third {
+    background-image: url("Images/Slide1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 560px;
+    width: 100%;
+}
+
+.wrap-words {
+    padding-top: 112px;
+}
+
+.wrap-btn{
+    width: 14.5rem;
+    height: 3rem;
+}
+
+.wrap-btn-1{
+    background-color: #077ebc;
+}
+
+.bar {
+    background-image: url("Images/ticker-caption-bg.png");
+    background-repeat: no-repeat;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.for-img{
+    width: 5rem;
+    height: 5rem;
+}
+
+.for-img-3{
+    width: 7rem;
+    height: 7rem;
+}
+
+.five{
+    color: #999999;
+}
+.six {
+    height: 600px;
+}
+
+/* .six .right img {
+    top: -170px;
+    width: 45rem;
+    position: absolute;
+    left: 700px;
+} */
+
+.seven {
+    background-color: #ececec;
+}
+
+.bank-cards {
+    padding-left: 8.5rem;
+}
+
+.bank-cards ul {
+    padding: 2rem;
+}
+
+.bank-cards ul li {
+    padding: 1rem;
+}
+
+.eight .left img {
+    width: 35px;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.eight .right {
+    right: 70px;
+    top: 40px;
+}
